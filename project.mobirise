@@ -732,7 +732,7 @@
                 "title": "Stay and Enjoy",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has beeing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of t has survived not only five typesetting, remaining esseed in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has beeing and typesetting industry. Lorem Ipsum&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Reservation</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#features12-1d\" data-toolbar=\"-mbrBtnMove\">More info</a>",
                 "overlayOpacity": "0.3"
               },
@@ -750,7 +750,7 @@
                 "title": "Stay and Enjoy",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has beeing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of t has survived not only five typesetting, remaining esseed in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has beeing and typesetting industry. Lorem Ipsum.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -767,7 +767,7 @@
                 "title": "Stay and Enjoy",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has beeing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of t has survived not only five typesetting, remaining esseed in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has beeing and typesetting industry. Lorem Ipsum&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
